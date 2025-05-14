@@ -1,0 +1,62 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "TestAssignment.Web/1.0.0": {
+        "dependencies": {
+          "TestAssignment.Service": "1.0.0"
+        },
+        "runtime": {
+          "TestAssignment.Web.dll": {}
+        }
+      },
+      "TestAssignment.Entity/1.0.0": {
+        "runtime": {
+          "TestAssignment.Entity.dll": {}
+        }
+      },
+      "TestAssignment.Repository/1.0.0": {
+        "dependencies": {
+          "TestAssignment.Entity": "1.0.0"
+        },
+        "runtime": {
+          "TestAssignment.Repository.dll": {}
+        }
+      },
+      "TestAssignment.Service/1.0.0": {
+        "dependencies": {
+          "TestAssignment.Repository": "1.0.0"
+        },
+        "runtime": {
+          "TestAssignment.Service.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TestAssignment.Web/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TestAssignment.Entity/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TestAssignment.Repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TestAssignment.Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

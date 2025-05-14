@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "TestAssignment.Service/1.0.0": {
+        "dependencies": {
+          "TestAssignment.Repository": "1.0.0"
+        },
+        "runtime": {
+          "TestAssignment.Service.dll": {}
+        }
+      },
+      "TestAssignment.Entity/1.0.0": {
+        "runtime": {
+          "TestAssignment.Entity.dll": {}
+        }
+      },
+      "TestAssignment.Repository/1.0.0": {
+        "dependencies": {
+          "TestAssignment.Entity": "1.0.0"
+        },
+        "runtime": {
+          "TestAssignment.Repository.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TestAssignment.Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TestAssignment.Entity/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TestAssignment.Repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

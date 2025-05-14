@@ -1,0 +1,17 @@
+C:\Users\pctr48\Downloads\TestAssignment\TestAssignment.Service\bin\Debug\net7.0\TestAssignment.Service.deps.json
+C:\Users\pctr48\Downloads\TestAssignment\TestAssignment.Service\bin\Debug\net7.0\TestAssignment.Service.dll
+C:\Users\pctr48\Downloads\TestAssignment\TestAssignment.Service\bin\Debug\net7.0\TestAssignment.Service.pdb
+C:\Users\pctr48\Downloads\TestAssignment\TestAssignment.Service\bin\Debug\net7.0\TestAssignment.Entity.dll
+C:\Users\pctr48\Downloads\TestAssignment\TestAssignment.Service\bin\Debug\net7.0\TestAssignment.Repository.dll
+C:\Users\pctr48\Downloads\TestAssignment\TestAssignment.Service\bin\Debug\net7.0\TestAssignment.Repository.pdb
+C:\Users\pctr48\Downloads\TestAssignment\TestAssignment.Service\bin\Debug\net7.0\TestAssignment.Entity.pdb
+C:\Users\pctr48\Downloads\TestAssignment\TestAssignment.Service\obj\Debug\net7.0\TestAssignment.Service.csproj.AssemblyReference.cache
+C:\Users\pctr48\Downloads\TestAssignment\TestAssignment.Service\obj\Debug\net7.0\TestAssignment.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pctr48\Downloads\TestAssignment\TestAssignment.Service\obj\Debug\net7.0\TestAssignment.Service.AssemblyInfoInputs.cache
+C:\Users\pctr48\Downloads\TestAssignment\TestAssignment.Service\obj\Debug\net7.0\TestAssignment.Service.AssemblyInfo.cs
+C:\Users\pctr48\Downloads\TestAssignment\TestAssignment.Service\obj\Debug\net7.0\TestAssignment.Service.csproj.CoreCompileInputs.cache
+C:\Users\pctr48\Downloads\TestAssignment\TestAssignment.Service\obj\Debug\net7.0\TestAssignment.Service.csproj.CopyComplete
+C:\Users\pctr48\Downloads\TestAssignment\TestAssignment.Service\obj\Debug\net7.0\TestAssignment.Service.dll
+C:\Users\pctr48\Downloads\TestAssignment\TestAssignment.Service\obj\Debug\net7.0\refint\TestAssignment.Service.dll
+C:\Users\pctr48\Downloads\TestAssignment\TestAssignment.Service\obj\Debug\net7.0\TestAssignment.Service.pdb
+C:\Users\pctr48\Downloads\TestAssignment\TestAssignment.Service\obj\Debug\net7.0\ref\TestAssignment.Service.dll
