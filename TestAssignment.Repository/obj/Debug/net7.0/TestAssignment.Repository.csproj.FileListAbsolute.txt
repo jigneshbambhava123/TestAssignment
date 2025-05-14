@@ -13,3 +13,18 @@ C:\Users\pctr48\Downloads\TestAssignment\TestAssignment.Repository\obj\Debug\net
 C:\Users\pctr48\Downloads\TestAssignment\TestAssignment.Repository\obj\Debug\net7.0\refint\TestAssignment.Repository.dll
 C:\Users\pctr48\Downloads\TestAssignment\TestAssignment.Repository\obj\Debug\net7.0\TestAssignment.Repository.pdb
 C:\Users\pctr48\Downloads\TestAssignment\TestAssignment.Repository\obj\Debug\net7.0\ref\TestAssignment.Repository.dll
+C:\Users\pctr48\Downloads\New folder (4)\TestAssignment\TestAssignment.Repository\bin\Debug\net7.0\TestAssignment.Repository.deps.json
+C:\Users\pctr48\Downloads\New folder (4)\TestAssignment\TestAssignment.Repository\bin\Debug\net7.0\TestAssignment.Repository.dll
+C:\Users\pctr48\Downloads\New folder (4)\TestAssignment\TestAssignment.Repository\bin\Debug\net7.0\TestAssignment.Repository.pdb
+C:\Users\pctr48\Downloads\New folder (4)\TestAssignment\TestAssignment.Repository\bin\Debug\net7.0\TestAssignment.Entity.dll
+C:\Users\pctr48\Downloads\New folder (4)\TestAssignment\TestAssignment.Repository\bin\Debug\net7.0\TestAssignment.Entity.pdb
+C:\Users\pctr48\Downloads\New folder (4)\TestAssignment\TestAssignment.Repository\obj\Debug\net7.0\TestAssignment.Repository.csproj.AssemblyReference.cache
+C:\Users\pctr48\Downloads\New folder (4)\TestAssignment\TestAssignment.Repository\obj\Debug\net7.0\TestAssignment.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pctr48\Downloads\New folder (4)\TestAssignment\TestAssignment.Repository\obj\Debug\net7.0\TestAssignment.Repository.AssemblyInfoInputs.cache
+C:\Users\pctr48\Downloads\New folder (4)\TestAssignment\TestAssignment.Repository\obj\Debug\net7.0\TestAssignment.Repository.AssemblyInfo.cs
+C:\Users\pctr48\Downloads\New folder (4)\TestAssignment\TestAssignment.Repository\obj\Debug\net7.0\TestAssignment.Repository.csproj.CoreCompileInputs.cache
+C:\Users\pctr48\Downloads\New folder (4)\TestAssignment\TestAssignment.Repository\obj\Debug\net7.0\TestAssignment.Repository.csproj.CopyComplete
+C:\Users\pctr48\Downloads\New folder (4)\TestAssignment\TestAssignment.Repository\obj\Debug\net7.0\TestAssignment.Repository.dll
+C:\Users\pctr48\Downloads\New folder (4)\TestAssignment\TestAssignment.Repository\obj\Debug\net7.0\refint\TestAssignment.Repository.dll
+C:\Users\pctr48\Downloads\New folder (4)\TestAssignment\TestAssignment.Repository\obj\Debug\net7.0\TestAssignment.Repository.pdb
+C:\Users\pctr48\Downloads\New folder (4)\TestAssignment\TestAssignment.Repository\obj\Debug\net7.0\ref\TestAssignment.Repository.dll

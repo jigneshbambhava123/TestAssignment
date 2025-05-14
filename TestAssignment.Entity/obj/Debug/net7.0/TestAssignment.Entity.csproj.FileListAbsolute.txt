@@ -9,3 +9,17 @@ C:\Users\pctr48\Downloads\TestAssignment\TestAssignment.Entity\obj\Debug\net7.0\
 C:\Users\pctr48\Downloads\TestAssignment\TestAssignment.Entity\obj\Debug\net7.0\refint\TestAssignment.Entity.dll
 C:\Users\pctr48\Downloads\TestAssignment\TestAssignment.Entity\obj\Debug\net7.0\TestAssignment.Entity.pdb
 C:\Users\pctr48\Downloads\TestAssignment\TestAssignment.Entity\obj\Debug\net7.0\ref\TestAssignment.Entity.dll
+C:\Users\pctr48\Downloads\New folder (4)\TestAssignment\TestAssignment.Entity\bin\Debug\net7.0\TestAssignment.Entity.deps.json
+C:\Users\pctr48\Downloads\New folder (4)\TestAssignment\TestAssignment.Entity\bin\Debug\net7.0\TestAssignment.Entity.runtimeconfig.json
+C:\Users\pctr48\Downloads\New folder (4)\TestAssignment\TestAssignment.Entity\bin\Debug\net7.0\TestAssignment.Entity.dll
+C:\Users\pctr48\Downloads\New folder (4)\TestAssignment\TestAssignment.Entity\bin\Debug\net7.0\TestAssignment.Entity.pdb
+C:\Users\pctr48\Downloads\New folder (4)\TestAssignment\TestAssignment.Entity\obj\Debug\net7.0\TestAssignment.Entity.csproj.AssemblyReference.cache
+C:\Users\pctr48\Downloads\New folder (4)\TestAssignment\TestAssignment.Entity\obj\Debug\net7.0\TestAssignment.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pctr48\Downloads\New folder (4)\TestAssignment\TestAssignment.Entity\obj\Debug\net7.0\TestAssignment.Entity.AssemblyInfoInputs.cache
+C:\Users\pctr48\Downloads\New folder (4)\TestAssignment\TestAssignment.Entity\obj\Debug\net7.0\TestAssignment.Entity.AssemblyInfo.cs
+C:\Users\pctr48\Downloads\New folder (4)\TestAssignment\TestAssignment.Entity\obj\Debug\net7.0\TestAssignment.Entity.csproj.CoreCompileInputs.cache
+C:\Users\pctr48\Downloads\New folder (4)\TestAssignment\TestAssignment.Entity\obj\Debug\net7.0\TestAssignment.Entity.dll
+C:\Users\pctr48\Downloads\New folder (4)\TestAssignment\TestAssignment.Entity\obj\Debug\net7.0\refint\TestAssignment.Entity.dll
+C:\Users\pctr48\Downloads\New folder (4)\TestAssignment\TestAssignment.Entity\obj\Debug\net7.0\TestAssignment.Entity.pdb
+C:\Users\pctr48\Downloads\New folder (4)\TestAssignment\TestAssignment.Entity\obj\Debug\net7.0\TestAssignment.Entity.genruntimeconfig.cache
+C:\Users\pctr48\Downloads\New folder (4)\TestAssignment\TestAssignment.Entity\obj\Debug\net7.0\ref\TestAssignment.Entity.dll
